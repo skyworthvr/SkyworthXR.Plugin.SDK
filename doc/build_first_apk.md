@@ -19,7 +19,7 @@ Build the first APK
 
 2. Click the `+` sign in the upper left corner to open the second `Add Package from tarbll...` in the drop-down menu.
 
-    ![add](images/packageadd.png)
+    ![add](images/packageadd.PNG)
 
 3. Assign the tgz package to the SDK and click the Open button.
 
