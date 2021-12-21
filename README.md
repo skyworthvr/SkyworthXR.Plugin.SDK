@@ -16,10 +16,11 @@ Before you start, you still need to understand Unity XR related knowledge first.
 
 This SDK is a package with a tgz suffix. You don't need to decompress it when you use it, just add it directly through the Package Manager
 ## How to use this tutorial
-1. First follow the steps below to familiarize yourself with the installation and use of Skyworth Plugin SDK.
+(1) First follow the steps below to familiarize yourself with the installation and use of Skyworth Plugin SDK.
    1. [Set up the development environment](doc/set_dev.md)
    2. [Connect the device](doc/connectdevice.md)
    3. [Compile the first APK](doc/build_first_apk.md)
 
-2. The advanced part contains an introduction to device key input [Input interaction](doc/input.md) and [Input Sample](doc/sample.md). [Skyworth Interaction Toolkit](doc/skyworth_interaction_tools.md) and [keyboard](doc/keyboard.md) introduction to use.
-3. Contains answers to some common questions, such as if you want to do split-screen display, please read [How to realize the left and right split screen display](doc/sereo_sample.md)
+(2) The advanced part contains an introduction to device key input [Input interaction](doc/input.md) and [Input Sample](doc/sample.md). [Skyworth Interaction Toolkit](doc/skyworth_interaction_tools.md) and [keyboard](doc/keyboard.md) introduction to use.
+
+(3) Contains answers to some common questions, such as if you want to do split-screen display, please read [How to realize the left and right split screen display](doc/sereo_sample.md)
