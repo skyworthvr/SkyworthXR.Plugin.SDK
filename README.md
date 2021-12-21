@@ -1,11 +1,3 @@
-<!--
- * @Author: xieminghui
- * @Date: 2021-12-13 09:28:24
- * @Description: Description
- * @LastEditors: xieminghui
- * @LastEditTime: 2021-12-13 09:42:06
- * @Copyright: Copyright 2020 Skyworth VR. All rights reserved.
--->
 Skyworth XR SDK documentation
 ===
 ## Introduction
@@ -24,3 +16,6 @@ This SDK is a package with a tgz suffix. You don't need to decompress it when yo
 (2) The advanced part contains an introduction to device key input [Input interaction](doc/input.md) and [Input Sample](doc/sample.md). [Skyworth Interaction Toolkit](doc/skyworth_interaction_tools.md) and [keyboard](doc/keyboard.md) introduction to use.
 
 (3) Contains answers to some common questions, such as if you want to do split-screen display, please read [How to realize the left and right split screen display](doc/sereo_sample.md)
+
+## Sample project
+[SkyworthXR.Plugin.SDK.Sample](https://github.com/skyworthvr/SkyworthXR.Plugin.SDK.Sample)
