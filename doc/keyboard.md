@@ -33,4 +33,4 @@ The keyboard is located in the directory `Assets> Skyworth Interaction Toolkit> 
     At this time, hold down the Alt key to control the position of the anchor point, click the input box to display the keyboard, and click the blank area to close the keyboard.
 6. Compile and run to the device.
 
-    ![keybaord4](../images/keyboard4.png)
+    ![keybaord4](images/keyboard4.png)
