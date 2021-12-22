@@ -18,4 +18,5 @@ This SDK is a package with a tgz suffix. You don't need to decompress it when yo
 (3) Contains answers to some common questions, such as if you want to do split-screen display, please read [How to realize the left and right split screen display](doc/sereo_sample.md)
 
 ## Sample project
-[SkyworthXR.Plugin.SDK.Sample](https://github.com/skyworthvr/SkyworthXR.Plugin.SDK.Sample)
+- [SkyworthXR.Plugin.SDK.Sample](https://github.com/skyworthvr/SkyworthXR.Plugin.SDK.Sample)
+- [SkyworthXR.VideoPlayer.Sample](https://github.com/skyworthvr/SkyworthXR.VideoPlayer.Sample)
