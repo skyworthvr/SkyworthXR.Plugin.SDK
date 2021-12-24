@@ -3,7 +3,7 @@
  * @Date: 2021-11-10 15:01:50
  * @Description: Description
  * @LastEditors: xieminghui
- * @LastEditTime: 2021-12-13 09:44:48
+ * @LastEditTime: 2021-12-24 09:50:21
  * @Copyright: Copyright 2020 Skyworth VR. All rights reserved.
 -->
 Set up the development environment
@@ -13,6 +13,7 @@ This chapter introduces how to set up the development environment to export appl
 **Supporting device：**
 - V901
 - S802
+- 603
 
 **Development system requirements**
 - Windows 10(64 bit)
