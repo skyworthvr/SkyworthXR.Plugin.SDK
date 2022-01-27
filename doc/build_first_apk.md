@@ -65,10 +65,6 @@ Build the first APK
       - Setting it to true will ignore the Home button, causing pressing the Home button will not exit the application.
       - After setting it to false, press the Home button to exit the application and return to the Launcher.
 
-    **Use Home Button to reset：**
-      - After setting it to true, long press the Home button to return to the front view.
-      - After it is set to false, the viewing angle cannot be returned to the normal view by pressing and holding the Home button.
-
 ## 5.Pack and run
 1. Select `Android S802` in `Run Device` in `Build Settings`.
 
