@@ -1,3 +1,7 @@
+## Notice: This is legacy 3DOF sdk only for S802/V901 device, for 6DOF device please use https://github.com/skyworthvr/unity_6dof_sdk
+
+
+
 Skyworth XR SDK documentation
 ===
 ## Introduction
